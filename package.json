@@ -1,0 +1,22 @@
+{
+  "name": "hotel-travel-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanaa00/hotel-travel-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanaa00/hotel-travel-server/issues"
+  },
+  "homepage": "https://github.com/Sanaa00/hotel-travel-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
